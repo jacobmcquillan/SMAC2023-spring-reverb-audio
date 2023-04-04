@@ -3,8 +3,8 @@
 
 modelled impulse responses of grouped modes and audio examples applying the effect to a guitar riff.
 
-Files labelled bending correspond to exciting and picking-up one of the bending polarisations (v), and twisting to the torsional polarisation (theta_w).
+File label "bending" corresponds to exciting and picking-up one of the bending polarisations (v) - as in Figure 6, and "twisting" to the torsional polarisation (theta_w) - not shown in the paper.
 
-Files labelled a-g correspond to the same labels in Figure 6, showing the impulse response for separate mode groups.
+File labels "a"-"g" correspond to the same labels in Figure 6, showing the impulse responses of separate mode groups.
 
-All 6 groups and the full response are uploaded for the impulse responses. Where guitar riffs have been used to show the effect, only the full response, isolated upper chirps, and one set of the isolated lower chirps are provided. Various levels of wet/dry are provided.
+Impulse responses are provided for the full modal engine and each of the 6 groups. Where the effect has been applied to a guitar signal, only the full response, one set of isolated upper chirps, and one set of the isolated lower chirps are provided. Various levels of wet/dry are provided.
