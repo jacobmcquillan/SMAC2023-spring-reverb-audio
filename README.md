@@ -1,5 +1,5 @@
 # SMAC2023-spring-reverb-audio
-"Helical Spring Mode Grouping" add link when published
+Helical Spring Mode Grouping
 
 All audio clips employ a simple loss mechanism imposing a quadratic dependency on wave number.
 
